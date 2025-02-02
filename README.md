@@ -1,0 +1,1 @@
+# This project aims to deploy this nextjs project to ec2 using Github Actions.
