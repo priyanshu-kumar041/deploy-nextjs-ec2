@@ -9,7 +9,7 @@ const BirthdayWishes: React.FC<BirthdayProps> = ({ name }) => {
     <div className="flex flex-col items-center justify-center h-screen bg-yellow-400 text-gray-800 font-sans text-center">
       <h1 className="text-5xl font-extrabold text-orange-600">Happy Birthday, {name} !</h1>
       <p className="text-xl mt-4">Wishing you a fantastic year ahead!</p>
-      <p className="text-xl mt-4">Best Wishes from  Raman Kumar</p>
+      <p className="text-xl mt-4">Best Wishes from  Raman Bhargav</p>
     </div>
   );
 };
